@@ -1,0 +1,16 @@
+body {
+  background-color: lavenderblush;
+  text-align: center;
+  font-size: 50px;
+  font-family:'Poppins', sans-serif;
+  margin-top: 200px;
+}
+
+
+h1 {
+  color: lightslategray;
+}
+
+span {
+  color: lightseagreen;
+}
